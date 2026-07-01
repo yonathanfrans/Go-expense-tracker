@@ -156,6 +156,8 @@ go run . export
 
 This project is based on the Expense Tracker challenge from roadmap.sh.
 
+---
+
 ## Project Source
 
 https://roadmap.sh/projects/expense-tracker
