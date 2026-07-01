@@ -1,6 +1,6 @@
 # Expense Tracker CLI
 
-A simple Command Line Interface (CLI) application built with Go to manage daily tasks. This project is based on the Expense Tracker project from roadmap.sh and was developed as part of my Go backend learning journey.
+A simple Command Line Interface (CLI) application built with Go to track daily expense. This project is based on the Expense Tracker project from roadmap.sh and was developed as part of my Go backend learning journey.
 
 ---
 
